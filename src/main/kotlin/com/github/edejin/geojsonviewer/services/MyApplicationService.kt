@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.edejin.geojsonviewer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.edejin.geojsonviewer.MyBundle
 
 class MyApplicationService {
 
